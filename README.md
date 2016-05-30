@@ -6,4 +6,8 @@ GurbaniWebThickTrue is a modified Font based off of GurbaniWebThick by Kulbir S.
 It fixes the Arth ਯ issue in the font.
 
 ##Example
+###Incorrect:
+![alt text](http://puu.sh/p9Mi5/ad3ebed2eb.jpg)
+
+###Fixed:
 ![alt text](https://puu.sh/p9vK6/440fa9a55d.png)
