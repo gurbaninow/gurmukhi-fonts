@@ -2,8 +2,10 @@ GurbaniWebThickTrue © 2016 Sarabveer Singh - https://sarabveer.me
 
 GurbaniWebThick © 2001 Kulbir S. Thind, Hacienda Street, San Mateo, CA, USA
 
-GurbaniWebThickTrue is licensed under a
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+You have the Right to Redistribute, Use, and Include the Font in Programs or Websites.
+
+GurbaniWebThickTrue is NOT AN OPEN-SOURCE FONT, NO ONE, EXCEPT THE AUTHOR, HAS THE RIGHT 
+TO MODIFY, REMIX, BUILD UPON, OR CHANGE THIS FONT WITHOUT WRITTEN CONSENT FROM THE AUTHOR.
 
 You should have received a copy of the license along with this
 work. If not, see <http://creativecommons.org/licenses/by-nc-nd/4.0/>.
@@ -15,3 +17,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+June 17, 2016
+Subject To Change
