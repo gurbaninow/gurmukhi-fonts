@@ -1,15 +1,21 @@
-# GurbaniWebThickTrue
-This is the Font that Ships with [iGurbani Desktop](https://github.com/Sarabveer/igurbani-desktop)
+# Gurmukhi True Fonts
+These are the fonts that are used with [Sundar Gutka](http://khalisfoundation.org/apps/sundar-gutka/) and [GurbaniNow](https://gurbaninow.com)
 
-GurbaniWebThickTrue is a modified Font based off of GurbaniWebThick by Kulbir S. Thind.
+Gurmukhi True Fonts have various fixes and new characters added to them.
 
-It fixes the Arth ਯ issue in the font.
+### Fixes:
+- Added Proper Arth Yaiyha (Yakash)
+- Added Hora with Bindi
+- Fixed Font Smoothing issues on Windows
 
-It also has Unicode Gurmukhi Support.
+# Licence
 
-##Example
-###Incorrect:
-![alt text](http://puu.sh/p9Mi5/ad3ebed2eb.jpg)
+```
+GurmukhiTrueFonts Copyright (C) 2001 Kulbir S. Thind (California), Copyright (C) 2016 Sarabveer Singh (https://sarabveer.me). All Rights Reserved.
 
-###Fixed:
-![alt text](https://puu.sh/p9vK6/440fa9a55d.png)
+GurmukhiTrueFonts is licensed under a
+Creative Commons Attribution-NoDerivatives 4.0 International License.
+
+You should have received a copy of the license along with this
+work. If not, see <http://creativecommons.org/licenses/by-nd/4.0/>.
+```
