@@ -11,9 +11,9 @@ Gurmukhi True Fonts have various fixes and new characters added to them.
 # Licence
 
 ```
-GurmukhiTrueFonts Copyright (C) 2001 Kulbir S. Thind (California), Copyright (C) 2016 Sarabveer Singh (https://sarabveer.me). All Rights Reserved.
+GurbaniTrue Fonts Copyright (C) 2001 Kulbir S. Thind (California), Copyright (C) 2013 Google, Inc., Copyright (C) 2016 Sarabveer Singh (https://sarabveer.me). All Rights Reserved.
 
-GurmukhiTrueFonts is licensed under a
+GurbaniTrue Fonts are licensed under a
 Creative Commons Attribution-NoDerivatives 4.0 International License.
 
 You should have received a copy of the license along with this
