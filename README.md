@@ -5,7 +5,9 @@ ASCII GurbaniAkhar-compatible & Unicode Gurbani Fonts with Various Fixes
 - Added Proper Arth Yaiyha (Yakash)
 - Added Hora with Bindi
 - Fixed Font Smoothing issues on Windows
-- More to Come! Request Font Features on the Issues Page
+- Fixed Font Spacing Issues on iOS
+
+#### [DEMO](https://gurbaninow.github.io/gurmukhi-fonts/)
 
 # Licence
 
