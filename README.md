@@ -1,9 +1,8 @@
-# GurbaniWebThickTrue
-This is the Font that Ships with [iGurbani Desktop](https://github.com/Sarabveer/igurbani-desktop)
+### Fixes:
+- Added Proper Arth Yaiyha (Yakash)
+- Added Hora with Bindi
+- Fixed Font Smoothing issues on Windows
+- More to Come! Request Font Features on the Issues Page
 
-GurbaniWebThickTrue is a modified Font based off of GurbaniWebThick by Kulbir S. Thind.
+### Demos
 
-It fixes the Arth ਯ issue in the font.
-
-##Example
-![alt text](https://puu.sh/p9vK6/440fa9a55d.png)
