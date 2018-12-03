@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'OpenGurbaniAkhar-Black';
+    src: url('2.1/OpenGurbaniAkhar-Black.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenAnmolUni-Bold';
+    src: url('2.1/OpenAnmolUni-Bold.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenGurbaniAkhar-Regular';
+    src: url('2.1/OpenGurbaniAkhar-Regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenGurbaniAkhar-Bold';
+    src: url('2.1/OpenGurbaniAkhar-Bold.otf');
+    font-weight: normal;
+    font-style: normal;
+}
