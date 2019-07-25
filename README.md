@@ -1,6 +1,6 @@
 # Open Gurmukhi Fonts
 
-ASCII GurbaniAkhar-compatible & Unicode Gurbani Fonts with Various Fixes
+ASCII GurbaniAkhar-compatible and Unicode Gurmukhi Fonts with Various Fixes
 
 ## Features
 
@@ -10,7 +10,7 @@ ASCII GurbaniAkhar-compatible & Unicode Gurbani Fonts with Various Fixes
 - Fixed Font Anti-Aliasing issues on Windows
 - Fixed Font Spacing Issues on iOS
 
-### [DEMO](https://gurbaninow.github.io/gurmukhi-fonts/)
+[**DEMO**](https://gurbaninow.github.io/gurmukhi-fonts/)
 
 ## Licence
 
@@ -18,7 +18,8 @@ ASCII GurbaniAkhar-compatible & Unicode Gurbani Fonts with Various Fixes
 
 Open Gurmukhi Fonts © 2015-2019 GurbaniNow Dev Team. All Rights Reserved.
 
-GurbaniAkhar / AnmolUni © 2001-2013 Kulbir S. Thind.  
+GurbaniAkhar / AnmolUni © 2001-2005 Kulbir S. Thind.
+
 Satluj © 1991-1992 Summit Information Technologies Pvt Ltd.
 
 ### Notice
