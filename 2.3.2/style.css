@@ -27,6 +27,13 @@
 }
 
 @font-face {
+    font-family: 'OpenSatlujUni-Regular';
+    src: url('OpenSatlujUni-Regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
     font-family: 'OpenSatlujUni-Bold';
     src: url('OpenSatlujUni-Bold.otf');
     font-weight: normal;
