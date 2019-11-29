@@ -7,6 +7,7 @@ ASCII GurbaniAkhar-compatible and Unicode Gurmukhi Fonts with Various Fixes
 - Designed to properly display Gurbani
 - Various Unicode Font Updates and Render Fixes
 - Added Proper Glyph for Pairin Yaiyha (Yakash)
+- Added subscript numbers for certain Sirlekhs
 - Fixed Font Anti-Aliasing issues on Windows
 - Fixed Font Spacing Issues on iOS
 
