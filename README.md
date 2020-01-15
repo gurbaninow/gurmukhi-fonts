@@ -5,6 +5,7 @@ ASCII GurbaniAkhar-compatible and Unicode Gurmukhi Fonts with Various Fixes
 ## Features
 
 - Designed to properly display Gurbani
+- Unicode 12 Compatible
 - Various Unicode Font Updates and Render Fixes
 - Added Proper Glyph for Pairin Yaiyha (Yakash)
 - Added subscript numbers for certain Sirlekhs
@@ -17,9 +18,9 @@ ASCII GurbaniAkhar-compatible and Unicode Gurmukhi Fonts with Various Fixes
 
 ### Copyright
 
-Open Gurmukhi Fonts © 2015-2019 GurbaniNow Dev Team. All Rights Reserved.
+Open Gurmukhi Fonts © 2015-2020 GurbaniNow Dev Team. All Rights Reserved.
 
-GurbaniAkhar / AnmolUni © 2001-2005 Kulbir S. Thind.
+GurbaniAkhar © 2001 Kulbir S. Thind.
 
 Satluj © 1991-1992 Summit Information Technologies Pvt Ltd.
 
