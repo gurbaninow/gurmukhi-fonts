@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'OpenGurbaniAkhar-Black';
+    src: url('https://cdn.jsdelivr.net/gh/GurbaniNow/gurmukhi-fonts@2/ascii/OpenGurbaniAkhar/Black/OpenGurbaniAkhar-Black.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenGurbaniAkhar-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/GurbaniNow/gurmukhi-fonts@2/ascii/OpenGurbaniAkhar/Bold/OpenGurbaniAkhar-Bold.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenGurbaniAkhar-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/GurbaniNow/gurmukhi-fonts@2/ascii/OpenGurbaniAkhar/Regular/OpenGurbaniAkhar-Regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSatlujUni-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/GurbaniNow/gurmukhi-fonts@2/unicode/OpenSatlujUni/Bold/OpenSatlujUni-Bold.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSatlujUni-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/GurbaniNow/gurmukhi-fonts@2/unicode/OpenSatlujUni/Regular/OpenSatlujUni-Regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
