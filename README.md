@@ -4,21 +4,20 @@ ASCII GurbaniAkhar-compatible and Unicode Gurmukhi Fonts with Various Fixes
 
 ## File Formats
 
-**OTF**: OpenType font with PostScript outlines and hints. For use on Windows and web.
+**TTF**: OpenType font with TrueType outlines. This file is reccomended for general use.
 
-**WOFF2**: OpenType font with PostScript outlines and hints. For use on the web.
-
-**TTF**: OpenType font with TrueType outlines, includes no hinting. For use on MacOS.
+**WOFF2**: Compressed OpenType font with TrueType outlines. For use on the web.
 
 ## Features
 
 - Designed to properly display Gurbani
 - Unicode Compatible
   - Various Unicode Font Updates and Render Fixes
-- Added Proper Glyph for Pairin Yaiyha (Yakash)
+- Added Proper Glyph for ਪੈਰ ਯੱਯਾ
 - Added subscript numbers for certain Sirlekhs
-- Fixed Font Anti-Aliasing issues on Windows
-- Fixed Font Spacing Issues on iOS
+- Removed and disabled broken TrueType hints on ASCII fonts
+  - Fixes font anti-aliasing issues on Windows
+  - Fixes font placement and spacing issues
 
 [**DEMO**](https://gurbaninow.github.io/gurmukhi-fonts/)
 
@@ -26,10 +25,10 @@ ASCII GurbaniAkhar-compatible and Unicode Gurmukhi Fonts with Various Fixes
 
 Copyright notices taken from original font headers.
 
-#### GurbaniAkhar
+### GurbaniAkhar
 
 Copyright: Kulbir S. Thind, 3724 Hacienda Street, San Mateo, CA 94403, USA.
 
-#### Satluj
+### Satluj
 
 © Summit Information Technologies Limited
